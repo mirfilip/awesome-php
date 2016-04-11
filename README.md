@@ -390,6 +390,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+* [GeneratedHydrator](https://github.com/Ocramius/GeneratedHydrator) - A very fast data hydrator / extractor.
 
 ## Debugging and Profiling
 *Libraries and tools for debugging and profiling code.*
